@@ -1,4 +1,4 @@
-# Interactive Map
+# Interactive World Map
 
 This is an Angular application featuring an interactive SVG map of the world. 
 It integrates with the [Worldbank API](https://api.worldbank.org/V2/country/) to display country-specific information upon clicking 
